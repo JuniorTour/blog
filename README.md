@@ -15,7 +15,7 @@
 - 2017年
   - Angular 4 最佳实践总结（一）
   - vue-weibo 项目介绍
-  - 原生JS模拟call、apply和bind方法
+  - [原生JS模拟call、apply和bind方法](https://github.com/JuniorTour/blog/issues/2)
   - [手把手和你用原生JS写循环播放图片轮播组件（segmentfault）](https://segmentfault.com/a/1190000009706391)
   - 扇贝英语学习500天记录
 - 2016年
