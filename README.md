@@ -19,7 +19,7 @@
   - [手把手和你用原生JS写循环播放图片轮播组件（segmentfault）](https://segmentfault.com/a/1190000009706391)
   - 扇贝英语学习500天记录
 - 2016年
-  - 详解line-height属性：HTML中一行文字是如何排布的？什么是内容区、行内框、行框？
+  - [详解line-height属性 —— HTML中一行文字是如何排布的？什么是内容区、行内框、行框？](https://github.com/JuniorTour/blog/issues/3)
   - [译文] 一种新的轻型清除浮动技巧
   - 几种常见的JavaScript继承方式
   - JavaScript中创建对象的各种模式——《JavaScript高程设》笔记
