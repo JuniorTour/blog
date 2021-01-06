@@ -8,7 +8,7 @@
   - 用 Webpack 把 markdown 编译为 Vue.js 组件
   - XSS示例集锦
 - 2018年
-  - [es6-mario 项目介绍](https://github.com/JuniorTour/blog/issues/6)
+  - [es6-mario 项目介绍：《基于 Canvas 的2D游戏开发——以超级马力欧为例》](https://github.com/JuniorTour/blog/issues/6)
   - 谷歌机器学习速成课程笔记（一）
   - [互联网世界历险记-简介从输入网址到网页呈现](https://github.com/JuniorTour/blog/issues/1)
   - 和Vue.js交个朋友～
