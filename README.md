@@ -8,9 +8,9 @@
   - 《8分钟学会 Vue.js 原理》
     - [一、template 字符串编译为抽象语法树 AST](https://github.com/JuniorTour/blog/issues/7)
     - [二、AST 编译 render() 实现原理](https://github.com/JuniorTour/blog/issues/8)
-    - [TODO - 三、执行渲染函数 render() 生成虚拟节点 vnode]()
-    - [TODO - 四、虚拟节点 vnode 生成真实DOM]()
-    - [TODO - 五、数据驱动 DOM 更新 - Watcher Observer 和 Dep]()
+    - [三、执行渲染函数 render() 生成虚拟节点 vnode](https://github.com/JuniorTour/blog/issues/9)
+    - [四、虚拟节点 vnode 生成真实DOM](https://github.com/JuniorTour/blog/issues/10)
+    - [五、数据驱动 DOM 更新 - Watcher Observer 和 Dep](https://github.com/JuniorTour/blog/issues/11)
 - 2019年
   - 用 Webpack 把 markdown 编译为 Vue.js 组件
   - XSS示例集锦
