@@ -4,6 +4,14 @@
 
 #### 目录
 
+- 2023年
+  - 《现代前端工程体验优化》
+    - [你做的前端优化都错了！《现代前端工程体验优化》前言 && 第一章 数据驱动](https://github.com/JuniorTour/blog/issues/12)
+    - [前端优化数据量化必备神器：Grafana《现代前端工程体验优化》第一章 数据驱动 第二节 用户体验数据收集与可视化 ](https://github.com/JuniorTour/blog/issues/13)
+    - [第二章、用户体验优化](https://github.com/JuniorTour/blog/issues/14)
+    - 第三章、开发体验优化
+    - 第四章、制度建设
+    - 第五章、持续集成：用自动化工具保持优化效果
 - 2022年
   - 《8分钟学会 Vue.js 原理》
     - [一、template 字符串编译为抽象语法树 AST](https://github.com/JuniorTour/blog/issues/7)
