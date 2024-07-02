@@ -4,6 +4,8 @@
 
 #### 目录
 
+- 2024年
+  - [《前端体验优化》讲稿 - 2024掘金开发者大会-作者：少游](https://github.com/JuniorTour/blog/issues/15)
 - 2023年
   - 《现代前端工程体验优化》
     - [你做的前端优化都错了！《现代前端工程体验优化》前言 && 第一章 数据驱动](https://github.com/JuniorTour/blog/issues/12)
